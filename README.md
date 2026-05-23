@@ -75,7 +75,7 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavanbollam_0228)
 
 </div>
 
@@ -85,11 +85,11 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan-7282&theme=tokyonight&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pavan-7282&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavan-7282&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavan-7282&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-7282&theme=tokyonight&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavan-7282&theme=tokyonight&layout=compact&hide_border=false)
 
 </div>
 
@@ -99,7 +99,7 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pavan-7282&theme=onedark&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pavan-7282&theme=onedark&column=7&no-frame=false)
 
 </div>
 
