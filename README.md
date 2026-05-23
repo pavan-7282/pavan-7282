@@ -230,7 +230,9 @@ I'm always excited to collaborate on innovative projects and contribute to impac
 
 ### ⭐ If you find my work valuable, please consider starring my repositories!
 
-![Code Review](https://img.icons8.com/nolan/96/000000/code-review.png)
+<div style="margin: 30px 0;">
+📋 **Code Review & Best Practices** - Always striving for clean, maintainable code!
+</div>
 
 ---
 
