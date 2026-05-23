@@ -72,10 +72,10 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bollam-aa7a7b31a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan-7282)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavanbollam_0228)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavanbollam_0228)
 
 </div>
 
@@ -161,6 +161,22 @@ RESTful API services built with Node.js and Sequelize ORM. Implements database m
 
 ---
 
+## 📈 Key Metrics & Highlights
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 💼 **Production Apps** | 1+ Live on PlayStore |
+| 📚 **Projects Completed** | 5+ Full Stack |
+| 🔧 **Tech Stack Proficiency** | 12+ Technologies |
+| 📝 **Experience Level** | Junior/Fresher Developer |
+| 🎯 **Focus Areas** | Node.js, MERN, APIs, Docker |
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🤝 Let's Build Something Amazing Together!
@@ -171,7 +187,7 @@ I'm always excited to collaborate on innovative projects and contribute to impac
 
 ### ⭐ If you find my work valuable, please consider starring my repositories!
 
-<img src="https://raw.githubusercontent.com/kulwinderksingh/kulwinderksingh/master/undraw_code_review_re_woeb.svg" alt="code-review" width="200" height="200">
+![Code Review](https://img.icons8.com/nolan/96/000000/code-review.png)
 
 ---
 
