@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building robust, scalable web applications. As a junior developer, I'm constantly exploring cutting-edge technologies and best practices in full-stack development. My expertise spans from crafting responsive frontends with React to designing powerful backend APIs with Node.js and Express.
+Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building robust, scalable web applications. With real-world experience in developing production-grade applications, I combine solid backend engineering with modern web technologies. My expertise spans from crafting responsive frontends with React to designing powerful backend APIs with Node.js and Express.
 
 🔧 **What I Do:**
 - 💻 Develop full-stack applications using the MERN stack
@@ -26,9 +26,10 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 - 📱 Create responsive and modern UIs with React & Tailwind CSS
 - 🔐 Implement secure authentication and authorization
 - 📊 Design scalable database architectures
+- 🚖 Real-world production experience with live applications
 
 🌱 **Current Focus:**
-- Mastering advanced Node.js patterns and microservices
+- Mastering advanced Node.js patterns & microservices
 - Deepening Docker & Kubernetes knowledge
 - Exploring Cloud deployment strategies
 - Contributing to open-source projects
@@ -105,6 +106,21 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 
 ## 💼 Featured Projects
 
+### 🚖 UGO Taxi - Ride Hailing Application ⭐ **LIVE ON PLAYSTORE**
+Production-grade ride-hailing application live on Google Play Store. Developed robust backend infrastructure handling real-time ride matching, booking management, and payment processing. Engineered scalable APIs supporting thousands of concurrent users with optimized database queries and caching strategies.
+
+**Role:** Backend Node.js Developer  
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT Authentication, Real-time Socket.io, RESTful APIs, Payment Gateway Integration, Docker
+
+**Key Contributions:**
+- 🔧 Designed and implemented RESTful APIs for driver & passenger management
+- 📍 Built real-time ride tracking and matching algorithms
+- 💳 Integrated secure payment gateway systems
+- 🗄️ Optimized MongoDB queries for high-performance data retrieval
+- 🚀 Deployed on production servers with Docker containerization
+
+---
+
 ### 🔬 Blood Cancer Identification using Hybrid Ensemble Deep Learning Techniques
 Deep learning project implementing advanced ensemble methods for accurate blood cancer detection. Utilized hybrid machine learning techniques to achieve high accuracy in medical image analysis.
 
@@ -140,6 +156,7 @@ RESTful API services built with Node.js and Sequelize ORM. Implements database m
 - ☁️ AWS/GCP cloud services & deployment
 - 🔒 Security best practices & OWASP top 10
 - 📈 System design & scalability
+- 🔄 GraphQL & API optimization
 
 ---
 
@@ -147,7 +164,7 @@ RESTful API services built with Node.js and Sequelize ORM. Implements database m
 
 ## 🤝 Let's Build Something Amazing Together!
 
-I'm always excited to collaborate on innovative projects and contribute to impactful solutions. Whether you're looking for a dedicated developer, seeking technical guidance, or interested in partnering on an exciting venture, let's connect!
+I'm always excited to collaborate on innovative projects and contribute to impactful solutions. With proven production experience and a passion for building scalable applications, I'm ready to take on challenging backend engineering roles and contribute to your team's success.
 
 **Feel free to reach out, and let's transform ideas into reality.**
 
