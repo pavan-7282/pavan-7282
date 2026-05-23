@@ -15,9 +15,38 @@
 
 ---
 
+## 💼 Current Role
+
+<div align="center">
+
+![Current Role](https://img.shields.io/badge/Backend%20Developer-Dha%20Code%20Designer%20Pvt%20Ltd-0066FF?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20--%20Startup%20Experience-00D4FF?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Backend%20Engineering-Production%20Level-FF6B6B?style=for-the-badge)
+
+**Position:** Backend Node.js Developer  
+**Company:** Dha Code Designer Private Limited (Startup)  
+**Focus:** Scalable API Development, Database Optimization, Real-time Applications
+
+</div>
+
+---
+
+## 📧 Contact & Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-pavanbollam8688%40gmail.com-FF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanbollam8688@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bollam-aa7a7b31a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan-7282)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavanbollam_0228)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
-Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building robust, scalable web applications. With real-world experience in developing production-grade applications, I combine solid backend engineering with modern web technologies. My expertise spans from crafting responsive frontends with React to designing powerful backend APIs with Node.js and Express.
+Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building robust, scalable web applications. With real-world experience developing production-grade applications at a startup, I combine solid backend engineering with modern web technologies. My expertise spans from crafting responsive frontends with React to designing powerful backend APIs with Node.js and Express.
 
 🔧 **What I Do:**
 - 💻 Develop full-stack applications using the MERN stack
@@ -27,12 +56,28 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 - 🔐 Implement secure authentication and authorization
 - 📊 Design scalable database architectures
 - 🚖 Real-world production experience with live applications
+- 🚀 Startup environment experience with agile development
 
 🌱 **Current Focus:**
 - Mastering advanced Node.js patterns & microservices
 - Deepening Docker & Kubernetes knowledge
 - Exploring Cloud deployment strategies
 - Contributing to open-source projects
+
+---
+
+## 🏅 Certifications & Credentials
+
+<div align="center">
+
+### MERN Stack Certification
+![MERN Stack Certification](https://img.shields.io/badge/🎓%20MERN%20Stack%20Certification-10000%20Coders%20Institution-FF6B6B?style=for-the-badge)
+
+**Institution:** 10000 Coders Institution  
+**Focus:** Full Stack Web Development, React, Node.js, MongoDB, Express.js  
+**Highlights:** Production-level project implementation, API design, database optimization
+
+</div>
 
 ---
 
@@ -70,9 +115,6 @@ Hi! I'm a **passionate Node.js and MERN Stack Developer** dedicated to building 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bollam-aa7a7b31a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan-7282)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavanbollam_0228)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
@@ -170,7 +212,8 @@ RESTful API services built with Node.js and Sequelize ORM. Implements database m
 | 💼 **Production Apps** | 1+ Live on PlayStore |
 | 📚 **Projects Completed** | 5+ Full Stack |
 | 🔧 **Tech Stack Proficiency** | 12+ Technologies |
-| 📝 **Experience Level** | Junior/Fresher Developer |
+| 🎓 **Certifications** | MERN Stack (10000 Coders) |
+| 🏢 **Current Experience** | Startup Backend Development |
 | 🎯 **Focus Areas** | Node.js, MERN, APIs, Docker |
 
 </div>
@@ -181,9 +224,9 @@ RESTful API services built with Node.js and Sequelize ORM. Implements database m
 
 ## 🤝 Let's Build Something Amazing Together!
 
-I'm always excited to collaborate on innovative projects and contribute to impactful solutions. With proven production experience and a passion for building scalable applications, I'm ready to take on challenging backend engineering roles and contribute to your team's success.
+I'm always excited to collaborate on innovative projects and contribute to impactful solutions. With proven production experience at a startup and a passion for building scalable applications, I'm ready to take on challenging backend engineering roles and contribute to your team's success.
 
-**Feel free to reach out, and let's transform ideas into reality.**
+**Feel free to reach out via email or connect with me on LinkedIn, and let's transform ideas into reality.**
 
 ### ⭐ If you find my work valuable, please consider starring my repositories!
 
