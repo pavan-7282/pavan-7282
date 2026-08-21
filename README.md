@@ -37,6 +37,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan-7282)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavanbollam_0228)
 
+<!-- Add your real links below, or delete any you don't have yet -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://your-actual-site.com) -->
+
 </div>
 
 ---
@@ -204,6 +207,31 @@ Firebase Cloud Messaging powers push notifications for key ride events — drive
 Real-time ride-hailing backend · Location-based driver dispatch · Multi-role backend workflows · REST API development · Socket.IO communication · Relational database design · Authentication & authorization · Push notifications · Payment workflow integration
 
 > **Note:** UGO Taxi is a production application. The source code and confidential configuration are not publicly exposed. This section describes my role, responsibilities, and technical contributions.
+
+---
+
+## 👨‍👩‍👧 Parental Control App
+
+A cross-platform parental control application that gives parents visibility and controls over their child's device usage — screen time, app restrictions, and activity monitoring.
+
+**Role:** Backend & Mobile Developer
+**Tech Stack:** React Native · Node.js · Express.js · Sequelize · MySQL · REST APIs
+
+### 🔧 My Contributions
+
+- 📱 Built the cross-platform mobile app using React Native for parent and child device experiences
+- 🛠️ Developed REST APIs for device linking, activity logging, alerts, and parental controls
+- 🗄️ Designed relational database models using Sequelize ORM and MySQL for users, devices, activity logs, and rules
+- 🔐 Implemented authentication and role-based access for parent and child accounts
+- 📊 Built activity tracking and reporting for app usage and screen time
+- 🔔 Implemented real-time alerts and notifications for flagged activity
+- ⚙️ Implemented backend business logic for screen-time limits, app restrictions, and content rules
+- 🧪 Tested and integrated backend APIs using Postman
+- 🤖 Built the project using AI-assisted development — prompting an AI coding agent to generate and iterate on code, then reviewing and refining the implementation
+
+### 💡 Engineering Highlights
+
+Cross-platform mobile app (React Native) · Parent-child role-based access · Real-time alerts · Relational database design · REST API development · Screen-time & content rule enforcement · AI-assisted development workflow
 
 ---
 
