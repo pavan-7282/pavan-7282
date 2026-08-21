@@ -37,9 +37,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan-7282)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavanbollam_0228)
 
-<!-- Add your real links below, or delete any you don't have yet -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://your-actual-site.com) -->
-
 </div>
 
 ---
@@ -129,11 +126,11 @@ I have real-world production experience as a **Backend Node.js Developer**, work
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pavan-7282&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan-7282&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavan-7282&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pavan-7282&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavan-7282&theme=tokyonight&layout=compact&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-7282&theme=tokyonight&layout=compact&hide_border=false)
 
 </div>
 
